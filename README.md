@@ -198,6 +198,7 @@ The core ``ytopt`` team is at Argonne National Laboratory:
 * Paul Hovland <hovland@anl.gov>
 * Romain Egele <regele@anl.gov>
 * Jaehoon Koo <jkoo@anl.gov>
+* Md Arafat Hossain <mdarafat.hossain@anl.gov>
 
 The convolution-2d tutorial (source and python scripts) is contributed by:
 * David Fridlander <davidfrid2@gmail.com>
